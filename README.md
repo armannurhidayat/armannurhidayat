@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ||
 |---|
 |<center><img src="./hello.gif"/></center>|
