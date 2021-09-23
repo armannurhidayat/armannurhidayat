@@ -2,7 +2,7 @@
 
 ||
 |---|
-|<center><img src="https://github.com/LintangWisesa/LintangWisesa/blob/master/trex.gif"/></center>|
+|<center><img src="./hello.gif"/></center>|
 
 
 |||
