@@ -1,8 +1,3 @@
-||
-|---|
-|<center><img src="./hello.gif"/></center>|
-
-
 |||
 |---|---|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armannurhidayat&show_icons=true&theme=tokyonight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armannurhidayat&layout=compact)](https://github.com/kadantte/github-readme-stats)| 
